@@ -1,13 +1,14 @@
 <h1 align="center">Hola,Mi nombre es Diego Bejar</h1>
 <h3 align="center">Soy un apasionado Desarrollador, que busca una carrera relacionada a programación, datos e IA</h3>
 
+- 🤝 Desarrolle un piloto de extracción de datos de impuestos para AG innovation [Extract_data_pdf](https://github.com/anarkopin/extract_data_pdf)
+
+- 👯 También eh colaborado como practicante en Valkrys [desarrollando scripts de automatización](https://github.com/anarkopin/instagram_comments_UiAutomator2) y [proyectos con inteligencia artificial como un detector de emociones mobile](https://github.com/anarkopin/detect-emotions)
+
 - 🔭 Eh contribuido como practicante en: [Ona Merickson](https://github.com/MericksonProjects/RiesgosBackend)
 
 - 🌱 Cree una pagina web para Ingytal que extrae data de otra **Maxxis automotriz https://maxxisautomotriz.com/**
 
-- 👯 También eh colaborado como practicante en Valkrys [desarrollando scripts de automatización](https://github.com/anarkopin/instagram_comments_UiAutomator2) y [proyectos con inteligencia artificial como un detector de emociones mobile](https://github.com/anarkopin/detect-emotions)
-
-- 🤝 Desarrolle un piloto de extracción de datos de impuestos para AG innovation [Extract_data_pdf](https://github.com/anarkopin/extract_data_pdf)
 
 - 👨‍💻 Algunos proyectos estan disponibles en: [https://anarkopin.github.io/portfolio/](https://anarkopin.github.io/portfolio/)
 
