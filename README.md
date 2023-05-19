@@ -3,7 +3,7 @@
 
 - 🤝 Desarrolle un piloto de extracción de datos de impuestos para AG innovation [Extract_data_pdf](https://github.com/anarkopin/extract_data_pdf)
 
-- 👯 También eh colaborado como practicante en Valkrys [desarrollando scripts de automatización](https://github.com/anarkopin/instagram_comments_UiAutomator2) y [proyectos con inteligencia artificial como un detector de emociones mobile](https://github.com/anarkopin/detect-emotions)
+- 👯 También eh colaborado como practicante en Valkrys, algunos proyectos con ellos son: [desarrollando scripts de automatización](https://github.com/anarkopin/instagram_comments_UiAutomator2) y [proyectos con inteligencia artificial como un detector de emociones mobile](https://github.com/anarkopin/detect-emotions)
 
 - 🔭 Eh contribuido como practicante en: [Ona Merickson](https://github.com/MericksonProjects/RiesgosBackend)
 
